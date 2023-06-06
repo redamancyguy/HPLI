@@ -1,0 +1,14 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/redamancyguy/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/ninja/linux/x64/ninja -DCMAKE_C_COMPILER=/usr/bin/gcc -DCMAKE_CXX_COMPILER=/usr/bin/g++ -G Ninja -S /media/redamancyguy/high_speed_data/desktop/HPLI/hits -B /media/redamancyguy/high_speed_data/desktop/HPLI/hits/cmake-build-debug
+DEVICE_DEVICE   MY_UBUNTU
+CMake Error at /usr/share/cmake-3.22/Modules/FindPackageHandleStandardArgs.cmake:230 (message):
+  Could NOT find Python3 (missing: Development NumPy Development.Module
+  Development.Embed) (found version "3.11.3")
+Call Stack (most recent call first):
+  /usr/share/cmake-3.22/Modules/FindPackageHandleStandardArgs.cmake:594 (_FPHSA_FAILURE_MESSAGE)
+  /usr/share/cmake-3.22/Modules/FindPython/Support.cmake:3180 (find_package_handle_standard_args)
+  /usr/share/cmake-3.22/Modules/FindPython3.cmake:490 (include)
+  CMakeLists.txt:51 (find_package)
+
+
+-- Configuring incomplete, errors occurred!
+See also "/media/redamancyguy/high_speed_data/desktop/HPLI/hits/cmake-build-debug/CMakeFiles/CMakeOutput.log".

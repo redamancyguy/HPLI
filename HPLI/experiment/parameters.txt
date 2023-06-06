@@ -1,0 +1,27 @@
+P
+filename:longitudes.bin
+knob:  200000000  10  10  10  10  10  10  10  test_count: 200*10**6  weight:  0.01
+21366.3 : 81.9208 : 48.6637 : 50.2453 : 78.6466
+filename:longlat.bin
+knob:  200000000  10  10  10  10  10  10  10  test_count: 200*10**6  weight:  0.01
+25789.3 : 23.9227 : 8.20971 : 8.50442 : 12.1401
+filename:asia-latitude-id-1.bin
+knob:  200000000  10  10  10  10  10  10  10  test_count: 200*10**6  weight:  0.01
+19491.1 : 61.4115 : 34.7827 : 36.842 : 56.2505
+filename:north-america-latitude-id-0.bin
+knob:  200000000  10  10  10  10  10  10  10  test_count: 200*10**6  weight:  0.01
+21066.7 : 73.693 : 37.7194 : 43.7408 : 74.8953
+
+H
+filename:longitudes.bin
+knob:  200000000   7   7   7   7   7   7   7  test_count: 200*10**6  weight:  0.03
+18542.8 : 112.675 : 95.7222 : 107.389 : 78.4354
+filename:longlat.bin
+knob:  200000000   7   7   7   7   7   7   7  test_count: 200*10**6  weight:  0.03
+22241.6 : 33.8233 : 14.6822 : 16.5299 : 12.3146
+filename:asia-latitude-id-1.bin
+knob:  200000000   7   7   7   7   7   7   7  test_count: 200*10**6  weight:  0.03
+ 15731 : 78.6569 : 73.7108 : 81.2686 : 53.0298
+filename:north-america-latitude-id-0.bin
+knob:  200000000   7   7   7   7   7   7   7  test_count: 200*10**6  weight:  0.03
+ 17775 : 79.1165 : 74.6561 : 85.7358 : 73.8333
